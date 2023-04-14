@@ -20,8 +20,7 @@ const Cast = () => {
 
   const { movieId } = useParams();
 
-    useEffect(() => {
-    //   setLoading(true);
+  useEffect(() => {
     const fetchMoviesDetails = async () => {
       try {
         setLoading(true);

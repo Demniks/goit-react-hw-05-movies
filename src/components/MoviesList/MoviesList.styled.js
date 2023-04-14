@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export const MoviesLink = styled(Link)`
 display: flex;
 align-items: end;
-gap: 20px;
+gap: 10px;
   text-decoration: none;
   color: #212121;
   font-size: 20px;
