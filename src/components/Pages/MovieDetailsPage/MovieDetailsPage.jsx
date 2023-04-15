@@ -66,7 +66,7 @@ const MoviesDetailsPage = () => {
                   : 'https://ik.imagekit.io/tc8jxffbcvf/default-movie-portrait_EmJUj9Tda5wa.jpg?tr=fo-auto,di-'
               }
               alt={movie.title}
-              width={300}
+              width={280}
             />
 
             <MovieInfo>
